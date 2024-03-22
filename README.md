@@ -14,7 +14,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 + **Google fonts:** Para fuentes personalizadas.
 
   ### Vista previa del proyecto
-  ![Vista Demo](/imagenes/capturadeproyecto.png) 
+  ![Vista Demo](/imagenes/captura_proyecto.png) 
 
   ### Licencia
   Distribuido bajo la licencia MIT. Consulta LICENSE para obtener mas informacion.
